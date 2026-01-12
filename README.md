@@ -67,7 +67,7 @@ Average Price = (100×150 + 150×300 − 50×100) / 200 = 237.5
 Running the Application :-
 Prerequisites:
 	•	Install .NET 8 SDK
-    Swashbuckle.AspNetCore (Swagger) Nuget Package
+        Swashbuckle.AspNetCore (Swagger) Nuget Package required
 
 Steps to Run:
 	1	Navigate to the project root
